@@ -1,0 +1,14 @@
+.ecs-container {
+    padding-top: 50px;
+}
+
+.ecs-logo-topnav {
+    max-width: 120px;
+    margin-top: -7px;
+    margin-left: 7px;
+    margin-bottom: 3px;
+}
+
+.ecs-navbar {
+    background-color: black;
+}
