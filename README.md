@@ -1,7 +1,10 @@
 # ecs-patternlab
 A reusable UI patterns library that embraces the [Pattern Lab philosophy] (http://patternlab.io/) of atomic design.
 
-The Pattern Lab is [Angular 2](https://angular.io) and TypeScript project, packaged with [npm](https://npmjs.org) and built with [angular-cli](https://github.com/angular/angular-cli). As part of angular-cli, this project uses webpack as a module loader and bundler.  See the [wiki]() for details on the Lab's architecture and how it integrates into client projects and applications.
+The Pattern Lab is [Angular 2](https://angular.io) and TypeScript project, packaged with [npm](https://npmjs.org) and built with 
+[angular-cli](https://github.com/angular/angular-cli). As part of angular-cli, this project uses webpack as a module loader and bundler. 
+See the [wiki](https://github.com/ECSTeam/ecs-patternlab/wiki) for details on the Lab's architecture and how it integrates into client projects and 
+applications.
 
 ## Build
 
