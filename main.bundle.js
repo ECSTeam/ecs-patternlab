@@ -201,7 +201,7 @@ module.exports = ""
 /***/ 606:
 /***/ (function(module, exports) {
 
-module.exports = "<h1>\n  {{title}}\n</h1>\n"
+module.exports = "<nav class=\"navbar navbar-default navbar-fixed-top\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"#\">Pattern Lab</a>\n        </div>\n        <div id=\"navbar\" class=\"navbar-collapse collapse\">\n          <ul class=\"nav navbar-nav\">\n            <li class=\"dropdown\">\n              <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Patterns <span class=\"caret\"></span></a>\n              <ul class=\"dropdown-menu\">\n                <li><a href=\"#pattern1\">Pattern 1</a></li>\n                <li role=\"separator\" class=\"divider\"></li>\n                <li class=\"dropdown-header\">Patterns type B</li>\n                <li><a href=\"#pattern2\">Pattern 2</a></li>\n              </ul>\n            </li>\n            <li><a href=\"#about\">About</a></li>\n          </ul>\n          <ul class=\"nav navbar-nav navbar-right\">\n            <li><a href=\"https://github.com/ECSTeam/ecs-patternlab\">GitHub</a></li>\n          </ul>\n        </div>\n      </div>\n    </nav>"
 
 /***/ }),
 
