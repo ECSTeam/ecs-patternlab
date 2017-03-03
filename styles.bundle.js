@@ -3,7 +3,7 @@ webpackJsonp([1,4],{
 /***/ 368:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "glyphicons-halflings-regular.f4769f9bdb7466be6508.eot";
+module.exports = __webpack_require__.p + "glyphicons-halflings-regular.eot";
 
 /***/ }),
 
@@ -337,7 +337,7 @@ exports = module.exports = __webpack_require__(69)();
 
 
 // module
-exports.push([module.i, "html, body{\n    height: 100%;\n}\n\nbody {\n    background-color: #E1E1E1;\n    height: 100%;\n}\n\n.ecs-container {\n    padding-top: 50px;\n    background-color: white;\n}\n\n.ecs-logo-topnav {\n    max-width: 120px;\n    margin-top: -7px;\n    margin-left: 7px;\n    margin-bottom: 3px;\n}\n\n.ecs-navbar {\n    background-color: black;\n}\n\n.ecs-page-header {\n    color: #AD1A3C;\n}\n\n.navbar-default .navbar-nav>li>a {\n    color: white;\n}\n\n.navbar-default .navbar-nav>li>a:hover {\n    color: gray;\n}", ""]);
+exports.push([module.i, "html, body{\r\n    height: 100%;\r\n}\r\n\r\nbody {\r\n    background-color: #E1E1E1;\r\n    height: 100%;\r\n}\r\n\r\n.ecs-container {\r\n    padding-top: 50px;\r\n    background-color: white;\r\n}\r\n\r\n.ecs-logo-topnav {\r\n    max-width: 120px;\r\n    margin-top: -7px;\r\n    margin-left: 7px;\r\n    margin-bottom: 3px;\r\n}\r\n\r\n.ecs-navbar {\r\n    background-color: black;\r\n}\r\n\r\n.ecs-page-header {\r\n    color: #AD1A3C;\r\n}\r\n\r\n.navbar-default .navbar-nav>li>a {\r\n    color: white;\r\n}\r\n\r\n.navbar-default .navbar-nav>li>a:hover {\r\n    color: gray;\r\n}", ""]);
 
 // exports
 
@@ -362,7 +362,7 @@ exports.push([module.i, "/* You can add global styles to this file, and also imp
 /***/ 669:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "glyphicons-halflings-regular.89889688147bd7575d63.svg";
+module.exports = __webpack_require__.p + "glyphicons-halflings-regular.svg";
 
 /***/ }),
 
@@ -426,21 +426,21 @@ module.exports = function() {
 /***/ 691:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf";
+module.exports = __webpack_require__.p + "glyphicons-halflings-regular.ttf";
 
 /***/ }),
 
 /***/ 692:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "glyphicons-halflings-regular.fa2772327f55d8198301.woff";
+module.exports = __webpack_require__.p + "glyphicons-halflings-regular.woff";
 
 /***/ }),
 
 /***/ 693:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "glyphicons-halflings-regular.448c34a56d699c29117a.woff2";
+module.exports = __webpack_require__.p + "glyphicons-halflings-regular.woff2";
 
 /***/ }),
 
