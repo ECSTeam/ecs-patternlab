@@ -1,0 +1,1 @@
+//export { PatternListComponent } from './pattern-list.component'

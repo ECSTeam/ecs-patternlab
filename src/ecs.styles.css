@@ -1,5 +1,15 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: #E1E1E1;
+    height: 100%;
+}
+
 .ecs-container {
     padding-top: 50px;
+    background-color: white;
 }
 
 .ecs-logo-topnav {
@@ -13,6 +23,14 @@
     background-color: black;
 }
 
-.test_class_ecs {
-    background-color: lightcoral;
+.ecs-page-header {
+    color: #AD1A3C;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: gray;
 }

@@ -11,16 +11,8 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Patterns <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#pattern1">Pattern 1</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Patterns type B</li>
-                <li><a href="#pattern2">Pattern 2</a></li>
-              </ul>
-            </li>
-            <li><a href="#about">About</a></li>
+            <li><a routerLink="/getting-started" routerLinkActive="active">Getting Started</a></li>
+            <li><a routerLink="/patterns" routerLinkActive="active">Patterns</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="https://github.com/ECSTeam/ecs-patternlab">GitHub</a></li>
@@ -29,6 +21,10 @@
       </div>
 </nav>
 
+<div class="container ecs-container">
+  <router-outlet></router-outlet>
+</div>
+<!--
 <div class="container ecs-container">
   <h3>Welcome to the ECS Pattern Lab.</h3>
   <p>
@@ -42,3 +38,4 @@
 
   <p data-height="265" data-theme-id="0" data-slug-hash="vxELNB" data-default-tab="html,result" data-user="chill1" data-embed-version="2" data-pen-title="vxELNB" class="codepen">See the Pen <a href="https://codepen.io/chill1/pen/vxELNB/">vxELNB</a> by chill (<a href="http://codepen.io/chill1">@chill1</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 </div>
+-->
