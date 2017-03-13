@@ -1,8 +1,8 @@
 # ecs-patternlab
 A reusable UI patterns library that embraces the [Pattern Lab philosophy] (http://patternlab.io/) of atomic design.
 
-The Pattern Lab is [Angular 2](https://angular.io) and TypeScript project, packaged with [npm](https://npmjs.org) and built with 
-[angular-cli](https://github.com/angular/angular-cli). As part of angular-cli, this project uses webpack as a module loader and bundler. 
+The Pattern Lab is an [Angular 2](https://angular.io)/TypeScript project, packaged with [npm](https://npmjs.org) and built with 
+[angular-cli](https://github.com/angular/angular-cli).
 See the [wiki](https://github.com/ECSTeam/ecs-patternlab/wiki) for details on the Lab's architecture and how it integrates into client projects and 
 applications.
 
@@ -10,20 +10,20 @@ applications.
 
 To build, run, and interact with an instance of pattern lab:
 
- - List item
  - install the latest version of [node.js](https://nodejs.org), which includes [npm](https://docs.npmjs.com/getting-started/what-is-npm)
  - navigate to project's root directory (where package.json is) on the cmd line and enter the following command to download and install dependencies:
 ```
-> npm install
+npm install
 ```
 Install the angular-cli globally to serve Pattern Lab with a lite server that will watch for local code changes and redeploy with on-the-fly updates.
 ```
-> npm install -g @angular/cli
+npm install -g @angular/cli
 ```
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 - See Development Server instructions below.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
