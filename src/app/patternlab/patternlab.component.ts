@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+var test = require('../../ei.js');
 
 @Component({
   selector: 'pattern-lab',
@@ -10,6 +11,7 @@ export class PatternLabComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    test();
   }
 
 }
