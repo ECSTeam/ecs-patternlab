@@ -1,0 +1,1 @@
+C:\Users\ndupuis\Source\Repos\ECSPatternLibrary\ECSDesignSystem\ECSDesignSystem\obj\Debug\ECSDesignSystem.csprojResolveAssemblyReference.cache
